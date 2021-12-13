@@ -1,7 +1,4 @@
 # ProductionKitSemi-AutonomousControl
-───────────────────────────────────────
-Parallax Propeller Chip Project Archive
-───────────────────────────────────────
 
  Project :  "MyLiteKit"
 
